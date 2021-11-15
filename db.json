@@ -11,5 +11,24 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "students": [
+    {
+      "id": "Nursila",
+      "secret_code": "hdjksahd",
+      "id_num": 123456
+      
+    },
+    {
+      "id": "Ainiza",
+      "secret_code": "fdfdsdfsd",
+      "id_num": 789456123
+      
+    }, {
+      "id": "Anel",
+      "secret_code": "kofhdshf",
+      "id_num": 77777777
+      
+    },
+  ]
 }
