@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Salamaleikum"
+    },
+     {
+      "id": 2,
+      "title": "Helloumaleikum"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
